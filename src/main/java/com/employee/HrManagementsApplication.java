@@ -17,6 +17,5 @@ public class HrManagementsApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(HrManagementsApplication.class, args);	
 	}
-    
-	
+    	
 }
